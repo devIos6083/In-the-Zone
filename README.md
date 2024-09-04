@@ -2,7 +2,7 @@
 
 ## 목차 
 - [요약](#요약)
-- [진행상황](#진행-상황)
+- [진행 상황](#진행-상황)
 - [구현 결과](#구현-결과)
 - [개선 및 기능 추가](#개선-및-기능-추가)
 - [트러블 슈팅](#트러블-슈팅)
@@ -26,22 +26,23 @@
 
 -------------
 
-## 진행상황
+## 진행 상황
 
 |날짜|내용|
 |------|---|
 |**2024.08.31**|앱 전체적인 기능 및 디자인 구상|
 |**2024.09.01**|런치 스크린 구현|
 |**2024.09.02**|로그인 화면 구현|
+|**2024.09.04**|회원가입 화면 구현|
 
 -------------
 
 # 구현 결과
 
 ## 구현
-|런치스크린|로그인|회원가입|
-|:----:|:----:|:----:|
-|<img src="https://github.com/user-attachments/assets/f1ea921e-66e9-48d2-9fd0-f26c14cbd8dd" width="300">|<img src="https://github.com/user-attachments/assets/b147b1e2-2f38-491e-bdfc-4e9f2786b1f6" width="300">||
+|런치스크린|로그인|회원가입|계정이 존재하는 경우|
+|:----:|:----:|:----:|:----:|
+|<img src="https://github.com/user-attachments/assets/6faac9cc-c149-4dcb-b418-e91d61e9806a" width="300">|<img src="https://github.com/user-attachments/assets/9e8d345d-2529-4565-be16-10257afd9c1b" width="300">|<img src="https://github.com/user-attachments/assets/d4cc7cd0-e4c7-4d5a-bb0e-03ca11695fba" width="300">|<img src="https://github.com/user-attachments/assets/995fac8c-766d-44e4-8e5e-f9a51e07bf76" width="300">|
 
 -------------
 
@@ -59,14 +60,5 @@
 
 ## 학습한 내용
  
-#### 1. ViewController간 이벤트를 주고 받는 방법 - Delegate, NotificationCenter
+#### 준비 중
 
-> Delegate와 Notification을 활용한 객체 간 통신
-- [VC간 데이터를 주고받는 방법(Delegate, Closure)](https://leechamin.tistory.com/500)
-- [NotificationCenter를 활용한 액션 전달방법](https://leechamin.tistory.com/505)
-
-#### 2. GCD
-> 비동기/동기 수행을 원할 때, thread pool을 관리해주는 GCD를 사용한다. 
-> - main queue : UI 관련한 코드는 main에서 실행되어야 한다. 
-> - 네트워크 통신이 필요한 다소 무게가 있는 작업은 background queue에서 실행되는 것이 권장된다. 
-> -> UI가 다른 일을 하는 동안, 무거운 작업을 뒤에서 할 수 있다. 
