@@ -35,6 +35,7 @@
 |**2024.09.02**|로그인 화면 구현|
 |**2024.09.04**|회원가입 화면 구현|
 |**2024.09.05**|탭뷰 구현 / 홈뷰 구현(스크롤 뷰 + firebase DB 연결)|
+|**2024.09.07**|검색뷰 구현|
 
 -------------
 
@@ -45,9 +46,9 @@
 |:----:|:----:|:----:|:----:|
 |<img src="https://github.com/user-attachments/assets/6faac9cc-c149-4dcb-b418-e91d61e9806a" width="300">|<img src="https://github.com/user-attachments/assets/9e8d345d-2529-4565-be16-10257afd9c1b" width="300">|<img src="https://github.com/user-attachments/assets/d4cc7cd0-e4c7-4d5a-bb0e-03ca11695fba" width="300">|<img src="https://github.com/user-attachments/assets/995fac8c-766d-44e4-8e5e-f9a51e07bf76" width="300">|
 
-|탭 뷰|홈뷰 구현(firebase DB 연결)|||
+|탭 뷰|홈뷰 구현(firebase DB 연결)|검색 뷰 구현||
 |:----:|:----:|:----:|:----:|
-|<img src="https://github.com/user-attachments/assets/3c43d4b0-6a00-4f7f-ac5c-5770359fd28a" width="300">|<img src="https://github.com/user-attachments/assets/9511b8bd-db1c-422a-ac43-f21c54e09a19" width="300">|||
+|<img src="https://github.com/user-attachments/assets/3c43d4b0-6a00-4f7f-ac5c-5770359fd28a" width="300">|<img src="https://github.com/user-attachments/assets/9511b8bd-db1c-422a-ac43-f21c54e09a19" width="300" >|<img src="https://github.com/user-attachments/assets/e6278e64-4c9c-490d-b8c9-85a3e46e1106" width="300">||
 
 
 -------------
