@@ -37,6 +37,8 @@
 |**2024.09.05**|탭뷰 구현 / 홈뷰 구현(스크롤 뷰 + firebase DB 연결)|
 |**2024.09.07**|검색뷰 구현|
 |**2024.09.08**|작성뷰 구현|
+|**2024.09.08**|세팅뷰, 좋아요 기능 구현 / 홈뷰 API 연결(newsAPI,Random Generator API 사용)|
+
 
 -------------
 
@@ -50,6 +52,10 @@
 |탭 뷰|홈뷰 구현(firebase DB 연결)|검색 뷰 구현|작성뷰 구현|
 |:----:|:----:|:----:|:----:|
 |<img src="https://github.com/user-attachments/assets/3c43d4b0-6a00-4f7f-ac5c-5770359fd28a" width="300">|<img src="https://github.com/user-attachments/assets/9511b8bd-db1c-422a-ac43-f21c54e09a19" width="300" >|<img src="https://github.com/user-attachments/assets/e6278e64-4c9c-490d-b8c9-85a3e46e1106" width="300">|<img src=https://github.com/user-attachments/assets/cfd9eaaa-c9c7-4a02-826f-333659ede82f width="300">|
+
+|세팅뷰,좋아요 기능 구현 / API 연결 ||||
+|:----:|:----:|:----:|:----:|
+|<img src="https://github.com/user-attachments/assets/4b8ded79-e488-47c2-9ff8-81c79aa52fd4" width="300">|ㅇㅇ|ㅇㅇ|ㅇㅇ|
 
 
 -------------
