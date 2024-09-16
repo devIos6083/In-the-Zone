@@ -1,0 +1,35 @@
+{
+    "users": {
+      "user1": {
+        "email": "khkyu9799@naver.com",
+        "userId": "user1",
+        "profileImageUrl": "https://example.com/profile1.png",
+        "createdAt": "2024-09-05"
+      },
+      "user2": {
+        "email": "khkyu9799@ajou.ac.kr",
+        "userId": "user2",
+        "profileImageUrl": "https://example.com/profile2.png",
+        "createdAt": "2024-09-05"
+      }
+    },
+    "posts": {
+      "post1": {
+        "username": "Mr.kang",
+        "profileImageUrl": "https://example.com/profile1.png",
+        "imageUrl": "https://example.com/post1.png",
+        "likes": 128,
+        "description": "Homemade pasta with fresh basil pesto!",
+        "timestamp": "2024-09-05T10:00:00Z"
+      },
+      "post2": {
+        "username": "foodLover",
+        "profileImageUrl": "https://example.com/profile2.png",
+        "imageUrl": "https://example.com/post2.png",
+        "likes": 230,
+        "description": "Delicious avocado toast!",
+        "timestamp": "2024-09-05T12:00:00Z"
+      }
+    }
+  }
+  
